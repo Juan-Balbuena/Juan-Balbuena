@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>I'm currently working on: <src>https://github.com/Juan-Balbuena/soccer-pick-up-app</src></p>
+<p>Ask me about: My pets, soccer or anything to do with food!</p>
+<p>Pronouns: He/Him</p>
+
