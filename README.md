@@ -2,7 +2,7 @@
 
 <!--
 **Juan-Balbuena/Juan-Balbuena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<link rel="stylesheet" href="style.css" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<link rel="stylesheet" href="style.css" />
 <p>I'm currently working on: <src>https://github.com/Juan-Balbuena/soccer-pick-up-app</src></p>
 <p>Ask me about: My pets, soccer or anything to do with food!</p>
 <p>Pronouns: He/Him</p>
