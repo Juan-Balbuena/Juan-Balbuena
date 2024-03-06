@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <p> 💬 Ask me about: React, SQL and MUI Styling</p>
 <p> 😄 Pronouns: He/Him</p>
 <p> ⚡ Fun Fact: If i'm not coding I'm playing soccer</p>
-<p> 📫 How to reach me: Linkedin: <src>https://www.linkedin.com/in/juan-balbuena/</src> Email: <src>juanbalb48@gmail.com</src> </p>
+<p> 📫 How to reach me: Linkedin: <src>https://www.linkedin.com/in/juan-balbuena/</src> Email: juanbalb48@gmail.com</p>
 
